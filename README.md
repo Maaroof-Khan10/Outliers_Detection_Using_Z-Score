@@ -71,6 +71,8 @@ To run the Jupyter notebook, follow these steps:
 
 ### 7. **Visualizing the Outliers**
    A final visualization shows the clusters with the outliers marked in red and green. The means of each cluster are also indicated to provide context.
+   
+   ![D2](https://github.com/user-attachments/assets/a7e7e5dd-115a-45af-bb15-cadd1fd95fcc)
 
 ### 8. **Conclusion**
    A brief summary of the method and how it can be applied to detect outliers in clustered data.
